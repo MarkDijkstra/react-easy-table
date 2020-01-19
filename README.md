@@ -11,7 +11,7 @@ Basic react table component. This component will return a very basic and easy to
 
 
 ```npm
-npm i react-easy-table
+npm i @markdijkstra/react-easy-table
 ```
 
 
