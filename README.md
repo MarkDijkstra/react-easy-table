@@ -3,6 +3,7 @@
 ![npm](https://img.shields.io/npm/v/@markdijkstra/react-easy-table)
 ![NPM](https://img.shields.io/npm/l/@markdijkstra/react-easy-table)
 ![GitHub issues](https://img.shields.io/github/issues/MarkDijkstra/react-easy-table)
+![CircleCI](https://img.shields.io/circleci/build/github/MarkDijkstra/react-easy-table)
 
 
 Basic react table component. This component will return a very basic and easy to use table.
