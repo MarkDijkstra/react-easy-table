@@ -20,7 +20,7 @@ npm i @markdijkstra/react-easy-table
 
 
 ```jsx
-import {EasyTable} from 'react-easy-table'
+import {EasyTable} from '@markdijkstra/react-easy-table'
 
 const TableHeading = [
    'First cell heading',
